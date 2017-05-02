@@ -74,9 +74,9 @@ p {
 
 /*header*/
 .header {
-    height: 55%;
+    height: 50%;
     width: 100%;
-    padding: 35px 0 30px;
+    padding: 45px 0 30px;
     margin-top: 50px;
     background-color: #424566;
     background-position: center center;
@@ -160,7 +160,7 @@ p {
 @media(max-width: 768px){
     .header{
         padding: 20px;
-        height: 750px;
+        height: 745px;
     }
     .header img{
         width: 55%;
@@ -190,4 +190,5 @@ p {
         padding: 10px;
         height: 750px;
     }
+    
 }
