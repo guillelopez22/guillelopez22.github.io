@@ -74,10 +74,9 @@ p {
 
 /*header*/
 .header {
-    height: 55%;
     width: 100%;
     padding: 30px 0 30px;
-    margin-top: 1%;
+    margin-top: 50px;
     background-color: #424566;
     background-position: center center;
     background-repeat: no-repeat;
@@ -85,7 +84,6 @@ p {
     color: #fff;
 }
 .educacion {
-    height: 55%;
     width: 100%;
     padding: 0;
     margin-top: 50px;
@@ -96,7 +94,6 @@ p {
     color: #fff;
 }
 .hobbies {
-    height: 55%;
     width: 100%;
     padding: 0;
     margin-top: 50px;
@@ -107,7 +104,6 @@ p {
     color: #fff;
 }
 .aptitudes {
-    height: 55%;
     width: 100%;
     padding: 0;
     margin-top: 50px;
@@ -159,8 +155,8 @@ p {
 
 @media(max-width: 768px){
     .header{
-        padding: 30px;
-        height: 745px;
+        padding: 10px;
+        height: 750px;
     }
     .header img{
         width: 55%;
@@ -173,22 +169,19 @@ p {
         margin-left: 20px;
     }
     .header h1{
-        font-size: 15px;
+        font-size: 20px;
     }
     .header p{
         font-size: 10px;
     }
     .educacion{
         padding: 10px;
-        height: 750px;
     }
     .hobbies{
         padding: 10px;
-        height: 750px;
     }
     .aptitudes{
         padding: 10px;
         height: 750px;
     }
-    
 }
