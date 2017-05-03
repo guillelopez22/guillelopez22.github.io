@@ -114,7 +114,6 @@ p {
     color: #fff;
 }
 .header img{
-    height: 150px;
     width: 200px;
     margin: 105px 0 0 40px;
     position: relative;
@@ -159,8 +158,8 @@ p {
         height: 750px;
     }
     .header img{
-        width: 200px;
-        height: 250px;
+        width: 150px;
+        height: 100px;
         margin: 20px 0 0 20px;
     }
 
